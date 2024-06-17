@@ -1,20 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="074ca8d0-26f2-4db4-95ca-69d7fa64f840" name="Changes" comment="" />
+    <list default="true" id="074ca8d0-26f2-4db4-95ca-69d7fa64f840" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/PixelGameFont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/Snakes/hiss.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/Snakes/hiss2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/Snakes/hiss3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/Snakes/hiss4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/Snakes/rattles.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/beep.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/game.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/shot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/start.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Snakes/iso-snake-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Snakes/iso-snake-cyan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Snakes/iso-snake-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Snakes/iso-snake-magenta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Snakes/iso-snake-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/bush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/title_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/directions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/snake_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2i0t4NmBXeTYcCV5TpWIDcIATsA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Michal/PycharmProjects/PythonHunt/Assets",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Michal\PycharmProjects\PythonHunt\Assets" />
+      <recent name="C:\Users\Michal\PycharmProjects\PythonHunt\Assets\Sounds" />
+      <recent name="C:\Users\Michal\PycharmProjects\PythonHunt\Assets\Sprites" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Michal\PycharmProjects\PythonHunt\Assets\Sounds" />
+      <recent name="C:\Users\Michal\PycharmProjects\PythonHunt\Assets\Sounds\Snakes" />
+      <recent name="C:\Users\Michal\PycharmProjects\PythonHunt\Assets\Fonts" />
+      <recent name="C:\Users\Michal\PycharmProjects\PythonHunt\Assets\Sprites" />
+      <recent name="C:\Users\Michal\PycharmProjects\PythonHunt\Assets\Snake" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonHunt" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -32,6 +128,20 @@
       <option name="presentableId" value="Default" />
       <updated>1718639129707</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1718639236966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718639236966</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
